@@ -1,0 +1,24 @@
+
+GET http://localhost:3000/subscribers/6478bd11f80c649efd844ef3
+
+
+###
+
+POST http://localhost:3000/subscribers
+Content-Type: application/json
+
+{
+    "name" : "Test",
+    "subscribedToChannel" : "YesNewaGENE"
+}
+
+###
+DELETE http://localhost:3000/subscribers/6478bd11f80c649efd844ef3
+
+###
+PATCH http://localhost:3000/subscribers/6478bd11f80c649efd844ef3
+Content-Type: application/json
+
+{
+    "name" : "NEW NAME"
+}

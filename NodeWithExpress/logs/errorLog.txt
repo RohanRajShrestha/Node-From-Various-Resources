@@ -1,0 +1,28 @@
+20230508	21:14:29	7575d9e4-06cd-4f06-b3da-d392b44b06bd	Error : Not Alloed By CORS
+20230508	21:35:07	a82fe6d9-c6a3-45b2-8a95-116923f1c2c7	Error : ENOENT: no such file or directory, stat 'C:\Users\acer\Desktop\Learning Node\NodeWithExpress\routes\views\index.html'
+20230508	21:35:58	7241e960-52ff-4cfc-a2a9-0c3fce20ac2f	Error : ENOENT: no such file or directory, stat 'C:\Users\acer\Desktop\Learning Node\NodeWithExpress\routes\views\index.html'
+20230508	21:37:11	d3236e77-7533-4d97-ba5e-2ebc78d8425e	Error : ENOENT: no such file or directory, stat 'C:\Users\acer\Desktop\Learning Node\NodeWithExpress\routes\views\index.html'
+20230508	21:37:24	7fd0ef5a-d977-4e1c-a7fb-4cd27f0a29d0	Error : ENOENT: no such file or directory, stat 'C:\Users\acer\Desktop\Learning Node\NodeWithExpress\routes\views\index.html'
+20230508	21:37:26	45019aaf-355e-4969-b99b-3bdcf21809f5	Error : ENOENT: no such file or directory, stat 'C:\Users\acer\Desktop\Learning Node\NodeWithExpress\routes\views\index.html'
+20230508	21:37:26	146d80b5-ab05-470c-863a-7be5b4450651	Error : ENOENT: no such file or directory, stat 'C:\Users\acer\Desktop\Learning Node\NodeWithExpress\routes\views\index.html'
+20230508	22:09:55	7319aaca-e292-4ddb-aea0-083821a2eb91	ReferenceError : employees is not defined
+20230508	22:10:32	ee6569a4-2da9-4d4f-8321-42df89f4e665	ReferenceError : employees is not defined
+20230508	22:26:32	d10b1d56-af4f-4a28-9b22-681df92bb10e	SyntaxError : Unexpected token f in JSON at position 14
+20230508	22:27:17	1d65744f-710d-4422-9bc8-ea123fec3444	SyntaxError : Unexpected token f in JSON at position 14
+20230508	22:27:30	aefe7709-eece-4c93-8348-1311a229a73e	ReferenceError : findIndex is not defined
+20230508	22:29:55	58d4aa27-7957-4fa3-9ea8-313b9b3d98f4	Error : ENOENT: no such file or directory, open '../model/employee.json'
+20230508	22:30:57	14097796-2f93-4117-a327-bb58f2e9073d	SyntaxError : Unexpected token o in JSON at position 1
+20230508	22:32:23	275c84af-385f-412b-9eda-12057c9848b7	Error : ENOENT: no such file or directory, open '../model/employee.json'
+20230508	22:32:49	a0143358-b685-450c-b218-5599301b477d	Error : ENOENT: no such file or directory, open '../model/employee.json'
+20230508	22:32:56	dd8358b6-6130-4df7-93ec-1bf8e295592f	ReferenceError : id is not defined
+20230508	22:36:54	c088a8d8-baf2-4a61-836f-94bbe2759c5c	Error : Cannot set headers after they are sent to the client
+20230508	22:37:02	00cd4ea8-de4c-4d7d-b6f4-0e77740da866	Error : Cannot set headers after they are sent to the client
+20230512	16:19:38	4c3e17c9-a6a7-457c-b905-8b35ae7bd56b	Error : Cannot set headers after they are sent to the client
+20230512	16:19:50	df0ae416-a956-47ed-9236-44b98028fbd4	Error : Cannot set headers after they are sent to the client
+20230512	16:21:07	2b701293-f933-49d7-958a-82f0fb16ca83	TypeError : Cannot read properties of undefined (reading 'username')
+20230512	16:21:41	cdac287e-eb07-4b8f-a5df-4ef30ac8ad12	TypeError : Cannot read properties of undefined (reading 'username')
+20230512	16:22:33	73688c67-963e-4497-8b32-075a17eb360b	TypeError : Cannot read properties of undefined (reading 'username')
+20230512	16:22:51	6797ea76-0f9e-4821-8355-d733ac34648d	Error : Cannot set headers after they are sent to the client
+20230512	16:54:00	4e222b31-3c5b-4f83-9e6f-7444b54e92e8	ReferenceError : here is not defined
+20230512	16:54:00	34dab225-4434-4603-9b70-6fcc9b0e7e58	ReferenceError : here is not defined
+20230512	16:54:15	e5af2fc0-f3da-4202-a8ea-7920e7ad63b2	ReferenceError : proces is not defined

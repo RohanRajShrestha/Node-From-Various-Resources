@@ -1,0 +1,9 @@
+Routing in Express with express route
+
+Inside Routes folder we create route,
+
+define express then define express.Router()
+
+
+How to setup a REST API
+ -- organizing an api

@@ -1,0 +1,13 @@
+20230505 	06:14:11 	 875fbf3d-7975-4e09-b291-6eff533f6886 	 /new-page.html 	 GET 20230505 	06:14:11 	 7e0d30d9-5b3c-403e-94d5-5d417412b77c 	 /css/style.css 	 GET 20230505 	06:14:11 	 3ee3c019-bdc2-4f85-b0f2-21d535fff877 	 /img/img1.jpg 	 GET 20230505 	06:14:12 	 d6cb7d20-8787-47a5-83f8-711293debd7a 	 /favicon.ico 	 GET 20230505 	06:15:16 	 080753ca-5979-473d-bb56-c62ba4dc9633 	 /new-page.html 	 GET 
+20230505 	06:15:16 	 ad8a3fb6-b091-440c-8fde-cfa9231c69bb 	 /css/style.css 	 GET 
+20230505 	06:15:16 	 2c34f51e-e352-4c7d-aed5-3362aafff9df 	 /img/img1.jpg 	 GET 
+20230505 	06:15:34 	 69f7236a-eba1-4d82-adb5-7d4389db7b36 	 /new-page.html 	 GET 
+20230505 	06:15:47 	 c8609c8e-3219-410b-8cbb-6cc011b9931d 	 /new-page.html 	 GET 
+20230505 	06:15:47 	 9fe1abab-d0e0-4f48-b059-b460d8cad079 	 /css/style.css 	 GET 
+20230505 	06:15:47 	 df884a9b-0a97-49bc-8fd3-f414a65b4dff 	 /img/img1.jpg 	 GET 
+20230505 	06:15:54 	 6028a4d7-28d1-4a76-bd2d-1686d250990a 	 / 	 GET 
+20230505 	06:15:54 	 2f17661d-8720-4524-90bd-c5a9270e2e5a 	 /css/style.css 	 GET 
+20230531 	05:21:42 	 266c73a3-226b-4154-b839-41bede8bdf2e 	 /data/data.json 	 GET 
+20230531 	05:24:50 	 1f73bdc2-b3ae-434f-ae2b-fd73e796d869 	 /new-page.html 	 GET 
+20230531 	05:24:50 	 80b67a22-467f-4a96-af22-3382fa7a0cdb 	 /css/style.css 	 GET 
+20230531 	05:24:50 	 7cafda88-a7f6-486c-90d8-44b79797654f 	 /img/img1.jpg 	 GET 
